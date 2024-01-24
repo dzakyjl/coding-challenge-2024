@@ -11,7 +11,7 @@ class Solution(object):
       seen[num] = i
     return []
   
-  # alternate solution (brute force)
+# alternate solution (brute force)
   
 class Solution(object):
   def twoSum(self, nums, target):
